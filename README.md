@@ -18,8 +18,9 @@ Automated setup script for Ubuntu to install and configure Node.js (version 20.x
 1. Clone or download this repository, or use the one-line command below to run directly from GitHub.
 
 2. Run the setup script:
-
+   ```bash
    curl -fsSL https://raw.githubusercontent.com/lvandeyar/nodejs-ubuntu-installer/refs/heads/main/setup.sh | bash
+   ```
 
 3. The script will:
    - Update the system.
